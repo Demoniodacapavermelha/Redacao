@@ -1,1 +1,29 @@
-# Redacao
+<!DOCTYPE html>
+
+<html>
+	<head>
+ 		<meta charset="utf-8">
+ 		<title>Moradias no Brasil</title>
+ 		<link rel="shortcut" href="https://imgur.com/a/FPBlCAh">
+ 		<meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, shrink-to-fit=no">
+ 		<style>
+ 				body {
+					color: black;
+				}
+				h1 {
+					color: #ff0000;
+				}
+ 		</style>
+	</head>
+	<body background="https://sportbuzz.uol.com.br/media/_versions/douglascosta_82934045_116411013185365_8270789263511275541_n_widelg.jpg">
+		<center>
+			<h1>No artigo 6 da carta Magna de 1988 garante a moradia como um direito fundamental, além dos direitos sociais a educação, a saúde, a alimentação, o trabalho, o lazer e a segurança. Uma pauta muito grande é aberta ao falar desde assunto, já que não são todos que são beneficiados com essa lei. Nessa perspectiva, esses desafios devem ser superados de imediato para que uma sociedade integra seja alcançada.</h1>
+
+			<h1>O governo é um fator primordial para um país, seria racional acreditar que o Brasil tenha um sístema público eficiente, mas a realidade é justamente oposta já que 11 milhões de pessoas tem a moradia precaria segundo o IBGE.</h1>
+
+			<h1>O desabamento do prédio no centro de São Paulo em primeiro de maio de 2018, abriu várias discuções, já que era ocupado especialmente por sem tetos. O Brasil como um país em desenvolvimento de capitalismo subsidiario enfrenta problemas de moradia grave, muitas pessoas estão "em condição de rua". Em São Paulo a população de "desabrigados" saltou de 15.305 de 2015 para 24.344 em 2019 segundo o site: GloboG1.</h1>
+
+			<h1>Por tanto, indubitavelmente medidas são necessárias para resolver este problema. O governo poderia investir em projetos para garantir a solidificação de empregos destinados a população carente, e também em construções de casas ou prédios para que vise um mundo melhor para desabrigados. Nesse sentido diminuiria a taxa de pessoas em condições de rua ou em condições precárias.</h1>
+		</center>
+	</body>
+</html>
